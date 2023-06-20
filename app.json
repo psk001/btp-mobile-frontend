@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "scheme": "off-vote",
+    "splash": {
+        "image": "./assets/splash3.png"
+    }
+  },
+  "web": {
+      "bundler": "metro"
+  }
+}
